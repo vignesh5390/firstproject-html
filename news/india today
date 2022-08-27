@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>project</title>
+        <style>
+            h1{
+                color: brown;
+                background-color: blueviolet;
+                text-align: center;
+            }
+            img{
+                width: 300px;
+                height: 200px;
+            }
+            a:link{
+             color:deeppink;
+            }
+            a:visited{
+             color:brown;
+            }
+            a:hover{
+             color:crimson;
+            }
+            a:active{
+             color:darkorange;
+            }
+        </style>
+        
+    </head>
+    
+    <body>
+        <h1>INDIA TODAY</h1>
+        <img src ="../news/images news.jpg"pictures">
+
+        <P>
+            Non-locals in J&K get voting rights; Opposition says 'imported voters' will help BJP<br>
+            Give me back my right to live: Bilkis Bano after release of rape convicts<br>
+            Delhi HC orders FIR against BJP leader Shahnawaz Hussain in rape case.
+        </P>
+        <h4>this is copied from <a href="https://www.indiatoday.in/news.html" target="-blank"> here
+        </a></h4>
+    </body>
+</html>
